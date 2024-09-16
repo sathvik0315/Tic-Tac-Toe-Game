@@ -4,15 +4,18 @@ Welcome to the Tic-Tac-Toe Game project! This is a classic Tic-Tac-Toe game impl
 
 ## when the game is draw :
 
-![image](https://github.com/user-attachments/assets/3ad88be0-2b70-4e3b-b559-f7f817e1d5e5)
+![image](https://github.com/user-attachments/assets/8bbbda80-dc2e-4c20-9d42-cf400ebdada9)
+
 
 ## when the player X wins the game :
 
-![image](https://github.com/user-attachments/assets/a26175d2-b31a-4797-98b1-512f7e610c02)
+![image](https://github.com/user-attachments/assets/e7d33b23-3d98-4f9f-ad56-d89e69dde468)
 
-## when the player Y wins the game :
 
-![image](https://github.com/user-attachments/assets/e82c6bef-2267-4722-aa64-bc5a9b5d1334)
+## when the player O wins the game :
+
+![image](https://github.com/user-attachments/assets/470c10fb-8d0a-4062-a299-41782eaff409)
+
 
 
 ## Features
