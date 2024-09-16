@@ -2,20 +2,18 @@
 
 Welcome to the Tic-Tac-Toe Game project! This is a classic Tic-Tac-Toe game implemented using HTML, CSS, and JavaScript. The game allows two players to play Tic-Tac-Toe on a 3x3 grid, keeping track of turns and declaring the winner.
 
-## when the game is draw :
-
-![image](https://github.com/user-attachments/assets/8bbbda80-dc2e-4c20-9d42-cf400ebdada9)
-
 
 ## when the player X wins the game :
 
 ![image](https://github.com/user-attachments/assets/e7d33b23-3d98-4f9f-ad56-d89e69dde468)
 
-
 ## when the player O wins the game :
 
 ![image](https://github.com/user-attachments/assets/470c10fb-8d0a-4062-a299-41782eaff409)
 
+## when the game is draw :
+
+![image](https://github.com/user-attachments/assets/8bbbda80-dc2e-4c20-9d42-cf400ebdada9)
 
 
 ## Features
